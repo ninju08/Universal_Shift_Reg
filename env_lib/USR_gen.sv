@@ -1,4 +1,4 @@
-class USR_gen ;
+class USR_gen;
  
   USR_trans gen_trans;
  
